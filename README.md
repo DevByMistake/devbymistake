@@ -17,24 +17,45 @@ What I'm Learning:
 
 🚀 About Me
 
-📘 I’m currently learning JavaScript and improving my front-end skills
+📘 Currently learning JavaScript
 
-🎯 My goal is to build real projects and get better at design and responsiveness
+🎯 Goal: Build real, responsive, and modern websites
 
-🌐 I enjoy creating simple layouts and experimenting with modern UI styles
+🎨 Love experimenting with UI layouts and styling
+
+🌱 Slow progress is still progress — building step by step
 
 📚 Projects
 
-I don’t have featured projects yet — but I’m working on it!
-Stay tuned for updates as I continue learning and building. 🚀
+Still building my skills — my first projects are coming soon! 🚀
+(This section will fill up as you grow!)
 
-📫 How to Reach Me
+🌱 Learning Roadmap
 
-✉ Email: yasirdrezy@gmail.com
+Here’s what I’m currently focusing on:
 
-🔗 Portfolio: (coming soon!)
+✔ HTML basics
+
+✔ CSS basics
+
+🔄 JavaScript fundamentals
+
+⏳ Responsive design
+
+⏳ CSS animations
+
+⏳ Building small real-world projects
+
+⏳ JavaScript DOM manipulation
+
+📫 Contact Me
+
+📧 Email: yasirdrezy@gmail.com
+
+🌐 Portfolio: coming soon…
 
 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devbymistake&show_icons=true&theme=tokyonight"> </p>
 
 ✨ Fun Facts
 
