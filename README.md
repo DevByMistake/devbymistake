@@ -1,7 +1,5 @@
 👋 Hi, I'm Yasir Buran Arafat
-🌱 Front-End Beginner | Learning Every Day
-
-I'm a beginner web developer focusing on building clean and simple websites using HTML and CSS, while currently learning JavaScript to bring my projects to life.
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Beginner;HTML+%26+CSS+Developer;Learning+JavaScript;Welcome+to+my+GitHub!+🚀"> </p>
 
 🧰 Tech Stack
 
