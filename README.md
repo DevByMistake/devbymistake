@@ -37,7 +37,7 @@
 <h2>📫 Contact Me</h2>
 <ul>
   <li>📧 Email: yasirdrezy@gmail.com</li>
-  <li>🌐 Portfolio: coming soon…</li>
+  <li>🌐 Portfolio: https://devbymistake.netlify.app/</li>
 </ul>
 
 <h2>📊 GitHub Stats</h2>
