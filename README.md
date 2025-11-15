@@ -9,9 +9,9 @@
 </ul>
 
 <h3>What I'm Learning:</h3>
+<p>⚡ JavaScript</p>
+<h3>🚀 About Me</h3>
 <ul>
-  <li>⚡ JavaScript</li>
-  <li>🚀 About Me</li>
   <li>📘 Currently learning JavaScript</li>
   <li>🎯 Goal: Build real, responsive, and modern websites</li>
   <li>🎨 Love experimenting with UI layouts and styling</li>
