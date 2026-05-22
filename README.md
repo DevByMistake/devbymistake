@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Yasir Buran Arafat</h1>
+<h1>👋 Hi, I'm Yasir Arafat Buran</h1>
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Beginner;HTML+%26+CSS+Developer;Learning+JavaScript;Welcome+to+my+GitHub!+🚀"> </p>
 
 <h2>🧰 Tech Stack</h2>
